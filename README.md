@@ -37,17 +37,17 @@
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-# 👨‍💻 Sobre Mim
+# 👨‍💻 About Me
 
-Olá! Eu sou **Mateus Amorim**, estudante do curso de **Ciência da Computação** e apaixonado por tecnologia, programação e desenvolvimento de soluções através do código.
+Hello! I'm **Mateus Amorim**, a **Computer Science student** passionate about technology, programming, and developing solutions through code.
 
-Atualmente estou construindo minha base na área de desenvolvimento e estudando principalmente:
+I'm currently building my foundation in software development and mainly studying:
 
 * 🐍 **Python**
 * 🌐 **HTML**
 * ☕ **Java**
-* 🧠 Lógica de programação
-* ⚙️ Algoritmos
-* 💻 Fundamentos da computação
+* 🧠 Programming logic
+* ⚙️ Algorithms
+* 💻 Computer science fundamentals
 
-Meu objetivo é evoluir constantemente, transformar conhecimento em projetos reais e construir uma carreira sólida na área de tecnologia.
+My goal is to continuously improve, turn knowledge into real-world projects, and build a solid career in technology.
